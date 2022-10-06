@@ -105,7 +105,7 @@
     "@firebase/component": "0.5.18",
     "@firebase/logger": "0.3.3",
     "@firebase/util": "1.7.0",
-    "node-fetch": "2.6.7",
+    "node-fetch": "3.2.10",
     "selenium-webdriver": "4.1.2",
     "tslib": "^2.1.0"
   },
